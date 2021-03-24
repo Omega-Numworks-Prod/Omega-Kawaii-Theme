@@ -1,6 +1,6 @@
               {
                 "name": "Omega Kawaii",
-                "icons": "omega_kawaii",
+                "icons": "omega_light",
                 "colors": {
                   "PrimaryText": "000000",
                   "SecondaryText": "6e6e6e",
@@ -8,7 +8,7 @@
                   "ApproximateSignText": "595959",
                   "ApproximateExpressionText": "595959",
                   "Background": {
-                    "Hard": "ffffff",
+                    "Hard": "fffbcc",
                     "Apps": "d9fff2",
                     "AppsSecondary": "bbf7e3"
                   },
@@ -47,7 +47,7 @@
                   },
                   "Code": {
                     "Background": "d9fff2",
-                    "BackgroundSelected": "e0e0e0",
+                    "BackgroundSelected": "deccff",
                     "Text": "000000",
                     "Comment": "999988",
                       "Number": "009999",
